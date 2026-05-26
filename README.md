@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 BACKEND DEVELOPER | JAVA | SPRING BOOT | SQL | API REST
 
 
